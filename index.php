@@ -26,7 +26,7 @@
                             <!-- Post Thumb -->
                             <div class="post-thumb">
                                 <a href="single.php?id=<?php echo $row['product_id']; ?>">
-                                <img src="admin_area/product_images/<?php echo $row['product_image']; ?>" alt="" height="10px"></a>
+                                <img src="admin_area/product_images/<?php echo $row['product_image']; ?>" alt="" heigh="10px"></a>
                             </div>
                             <!-- Post Content -->
                             <div class="post-content">
