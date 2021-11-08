@@ -3,7 +3,8 @@ session_start();
 include("db/db_connection.php");
 include("include/header.php"); ?>
 <div class="bradcumb-title text-center">
-	<h2>All Brand</h2>
+	
+	<h3>Special Offers</h3>
 </div><br>
 <div class="container">
 	<div class="row">
